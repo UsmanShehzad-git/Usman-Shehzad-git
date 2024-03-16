@@ -1,4 +1,4 @@
-![banner](https://github.com/UsmanShehzad-git/Usman-Shehzad-git/blob/main/github-header-image.png)
+![banner](https://github.com/UsmanShehzad-git/Usman-Shehzad-git/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Usman Shehzad</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
